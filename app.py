@@ -1,2 +1,1 @@
-print("Hello Git!")
-print("Git is fun!")
+print("Emoji branch edit!")
